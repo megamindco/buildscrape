@@ -6,3 +6,5 @@ transformers
 aiohttp
 asyncio
 python-dotenv
+tensorflow
+torch
