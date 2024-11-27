@@ -1,0 +1,8 @@
+Flask 
+flask[async]
+beautifulsoup4 
+requests
+transformers
+aiohttp
+asyncio
+python-dotenv
